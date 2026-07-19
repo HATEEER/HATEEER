@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering system</title>
+  <desc id="desc">Dark technology panel showing the primary engineering stack.</desc>
+  <rect width="1200" height="230" rx="8" fill="#080b10"/>
+  <rect x="1" y="1" width="1198" height="228" rx="7" fill="none" stroke="#27313d"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="42" y="48" fill="#87a8c8" font-size="14" font-weight="700">ENGINEERING SYSTEM</text>
+    <text x="1158" y="48" text-anchor="end" fill="#657382" font-size="13">PRODUCT TO INFRASTRUCTURE</text>
+
+    <g transform="translate(42 78)">
+      <rect width="210" height="108" rx="6" fill="#0e141c" stroke="#27313d"/>
+      <rect x="18" y="21" width="8" height="8" fill="#87a8c8"/>
+      <text x="38" y="31" fill="#f0f4f8" font-size="14" font-weight="700">MOBILE</text>
+      <text x="18" y="67" fill="#a0adba" font-size="14">React Native</text>
+      <text x="18" y="91" fill="#738190" font-size="13">Expo Router</text>
+    </g>
+    <g transform="translate(269 78)">
+      <rect width="210" height="108" rx="6" fill="#0e141c" stroke="#27313d"/>
+      <rect x="18" y="21" width="8" height="8" fill="#87a8c8"/>
+      <text x="38" y="31" fill="#f0f4f8" font-size="14" font-weight="700">LANGUAGE</text>
+      <text x="18" y="67" fill="#a0adba" font-size="14">TypeScript</text>
+      <text x="18" y="91" fill="#738190" font-size="13">React 19</text>
+    </g>
+    <g transform="translate(496 78)">
+      <rect width="210" height="108" rx="6" fill="#0e141c" stroke="#27313d"/>
+      <rect x="18" y="21" width="8" height="8" fill="#87a8c8"/>
+      <text x="38" y="31" fill="#f0f4f8" font-size="14" font-weight="700">DATA</text>
+      <text x="18" y="67" fill="#a0adba" font-size="14">Firebase</text>
+      <text x="18" y="91" fill="#738190" font-size="13">Firestore / Storage</text>
+    </g>
+    <g transform="translate(723 78)">
+      <rect width="210" height="108" rx="6" fill="#0e141c" stroke="#27313d"/>
+      <rect x="18" y="21" width="8" height="8" fill="#87a8c8"/>
+      <text x="38" y="31" fill="#f0f4f8" font-size="14" font-weight="700">BACKEND</text>
+      <text x="18" y="67" fill="#a0adba" font-size="14">Cloud Functions</text>
+      <text x="18" y="91" fill="#738190" font-size="13">Node.js 20</text>
+    </g>
+    <g transform="translate(950 78)">
+      <rect width="208" height="108" rx="6" fill="#0e141c" stroke="#27313d"/>
+      <rect x="18" y="21" width="8" height="8" fill="#87a8c8"/>
+      <text x="38" y="31" fill="#f0f4f8" font-size="14" font-weight="700">NATIVE</text>
+      <text x="18" y="67" fill="#a0adba" font-size="14">Swift</text>
+      <text x="18" y="91" fill="#738190" font-size="13">iOS media controls</text>
+    </g>
+  </g>
+</svg>

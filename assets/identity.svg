@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">HATEEER - Mobile Product Developer</title>
+  <desc id="desc">Dark profile identity panel with current focus and engineering disciplines.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#1a222c" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="270" rx="8" fill="#07090d"/>
+  <rect width="1200" height="270" rx="8" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1200" height="4" fill="#87a8c8"/>
+  <path d="M48 205H1152" stroke="#27313d"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="48" y="52" fill="#87a8c8" font-size="14" font-weight="700">PRODUCT ENGINEERING / MOBILE SYSTEMS</text>
+    <text x="48" y="118" fill="#f4f7fa" font-size="52" font-weight="750">HATEEER</text>
+    <text x="48" y="154" fill="#9ba8b6" font-size="20">Building focused products from interface to infrastructure.</text>
+
+    <text x="828" y="52" fill="#6f7c8a" font-size="13" font-weight="700">CURRENTLY BUILDING</text>
+    <text x="828" y="96" fill="#f4f7fa" font-size="28" font-weight="700">SONNOR</text>
+    <text x="828" y="127" fill="#9ba8b6" font-size="16">Music / community / mobile</text>
+    <rect x="828" y="151" width="110" height="28" rx="4" fill="#111821" stroke="#334252"/>
+    <circle cx="845" cy="165" r="4" fill="#87a8c8"/>
+    <text x="858" y="170" fill="#cbd5df" font-size="12" font-weight="700">IN BUILD</text>
+
+    <text x="48" y="239" fill="#d8e0e8" font-size="13" font-weight="650">REACT NATIVE</text>
+    <text x="235" y="239" fill="#d8e0e8" font-size="13" font-weight="650">TYPESCRIPT</text>
+    <text x="400" y="239" fill="#d8e0e8" font-size="13" font-weight="650">FIREBASE</text>
+    <text x="548" y="239" fill="#d8e0e8" font-size="13" font-weight="650">PRODUCT UI</text>
+    <text x="1128" y="239" text-anchor="end" fill="#607080" font-size="13">PT / 2026</text>
+  </g>
+</svg>
