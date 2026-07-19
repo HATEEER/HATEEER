@@ -10,19 +10,9 @@
 
 I build mobile systems where interface, media and backend behavior feel like one coherent product. My work is focused on product quality, clear architecture and the details that make software feel intentional.
 
-Currently building **Sonnor**, a mobile platform for music, releases, discovery and community.
-
 <p align="center">
-  <a href="https://github.com/HATEEER/Sonnor"><strong>Explore Sonnor</strong></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="mailto:wesleyjessen62@gmail.com"><strong>Contact</strong></a>
 </p>
-
-## Selected work
-
-<a href="https://github.com/HATEEER/Sonnor">
-  <img src="./assets/sonnor-project.svg" alt="Sonnor mobile music platform" width="100%" />
-</a>
 
 ## Engineering system
 
